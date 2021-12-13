@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @blueprismo
 - 👀 I’m interested in all related to computers, specially microservices, networking, security and so on :)
-- 🌱 I’m currently learning kubernetes, xss, react...
 - 📫 How to reach me: eninkadukk@gmail.com
 - 🕸️ [blueprismo](https://blueprismo.com)
 
