@@ -6,8 +6,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <!--<img src="https://profilecounter.glitch.me/count.svg"/>-->
-  <img src="http://hack.blueprismo.com:3000/count.svg"/>
+  <img src="https://counter.blueprismo.com/count.svg"/>
 </p>
 
 <!---
